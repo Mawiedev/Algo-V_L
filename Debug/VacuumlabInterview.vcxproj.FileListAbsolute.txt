@@ -1,0 +1,2 @@
+C:\Users\Mawie\source\repos\VacuumlabInterview\Debug\VacuumlabInterview.exe
+C:\Users\Mawie\source\repos\VacuumlabInterview\Debug\VacuumlabInterview.pdb
